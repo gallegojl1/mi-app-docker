@@ -1,4 +1,4 @@
-# Imagen base
+# Imagen base new
 FROM python:3.11-slim
 
 # Directorio de trabajo dentro del contenedor
