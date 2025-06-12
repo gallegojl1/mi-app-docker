@@ -22,4 +22,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: tu_usuario_docker/mi-app:latest
+        tags: gallegojl1/mi-app:latest
