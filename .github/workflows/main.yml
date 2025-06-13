@@ -15,7 +15,7 @@ jobs:
     - name: Log in to DockerHub
       uses: docker/login-action@v3
       with:
-        username: gallegojl1
+        username: gallegojl1@hotmail.com
         password: j@v13r91*
 
     - name: Build and push Docker image
